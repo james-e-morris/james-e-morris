@@ -1,8 +1,6 @@
 # Welcome!
 
-I am a Mechanical Engineer, turned Software Engineer. My current focuses are combination of device automation using a Python back-end; and web development using JavaScript, React, and a multitude of AWS services. I have 9 years of industry experience working in data acquisition, analysis, and automation.
-
-#### Check out my simple website for more links and info --> [james.pizza](https://james.pizza/)
+#### Check out my simple website for links and info --> [james.pizza](https://james.pizza/)
 
 ---
 
