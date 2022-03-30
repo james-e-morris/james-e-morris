@@ -2,8 +2,6 @@
 
 #### Check out my simple website for links and info --> [james.pizza](https://james.pizza/)
 
-[Buy me a coffee](https://www.buymeacoffee.com/Morrious)
-
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morrious&count_private=true&theme=dark&hide=stars,prs,contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
