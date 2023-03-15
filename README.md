@@ -4,10 +4,9 @@
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats-chi-gray-42.vercel.app/api?username=Morrious&count_private=true&theme=transparent&hide=prs,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- &count_private=true -->
-<!-- &theme=dark -->
-<!-- &hide=stars,commits,prs,issues,contribs -->
-<!-- &show_icons=true -->
+
+<!-- Profile views: -->
+<img align="center" src="https://komarev.com/ghpvc/?username=morrious" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morrious&count_private=true&theme=dark&show_icons=true&hide=css)](https://github.com/anuraghazra/github-readme-stats) -->
 
