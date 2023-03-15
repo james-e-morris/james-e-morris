@@ -3,7 +3,7 @@
 #### Check out my simple website for links and info --> [james.pizza](https://james.pizza/)
 
 ---
-
+https://github-readme-stats-chi-gray-42.vercel.app/
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morrious&count_private=true&theme=dark&hide=stars,prs,contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- &count_private=true -->
 <!-- &theme=dark -->
